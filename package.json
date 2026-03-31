@@ -1,0 +1,11 @@
+{
+  "name": "smma-automation-platform",
+  "private": true,
+  "devDependencies": {
+    "turbo": "^1.0.0"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
